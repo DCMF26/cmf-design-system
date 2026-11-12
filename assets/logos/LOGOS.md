@@ -1,0 +1,143 @@
+# Logo CMF — archivos oficiales y reglas de uso
+
+Fuente: **kit digital de la CMF**, https://kitdigital.cmfchile.cl/logo-CMF.html
+(versión 1.3, actualizado 14/05/2026). Consultas: `AreaComunicacionCMF@cmfchile.cl`.
+
+Las nueve variantes, `logo-cmf-blanco.svg` y `logoCMF.ai.pdf` se descargaron de ahí **sin
+modificar**. Los demás archivos se **derivaron de esos originales** (ver *Archivos derivados* más
+abajo). El manual de marca completo está en `../../guidelines/Manual-uso-CMF-breve-2026.pdf`.
+
+## Los tres elementos del logo
+
+| Elemento | Regla |
+|---|---|
+| **Imagen** | Identifica la organización. **Puede** funcionar independiente del texto. |
+| **Texto** | Describe la organización. **No puede** funcionar independiente de la imagen. |
+| **Claim** | Frase de descripción, se incluye de manera permanente. **No es un eslogan**: es fija, no varía. |
+
+## Las nueve variantes
+
+| Archivo | Variante |
+|---|---|
+| `logo-CMF-color-claim.png` / `.jpg` | Color horizontal **con claim** |
+| `logo-CMF-color-horizontal.png` | Color horizontal |
+| `logo-CMF-color-vertical.jpg` | Color vertical |
+| `logo-CMF-gris-claim.png` | Gris horizontal **con claim** |
+| `logo-CMF-gris-horizontal.png` | Gris horizontal |
+| `logo-CMF-gris-vertical.png` | Gris vertical |
+| `logo-CMF-blanco-claim.png` | Blanco **con claim** |
+| `logo-CMF-blanco-horizontal.png` | Blanco horizontal |
+| `logo-CMF-blanco-vertical.png` | Blanco vertical |
+| `logo-cmf-blanco.svg` | Blanco con claim, **vectorial** — preferir este sobre fondo oscuro |
+| `logo-cmf-color-claim.svg` | Color con claim, **vectorial** — preferir este sobre fondo claro |
+| `logoCMF.ai.pdf` | Original Adobe Illustrator (renombrado a `.pdf`; los `.ai` llevan una copia PDF interna) |
+
+> `logo-CMF-color-vertical` se publica con extensión `.png` pero el archivo es un **JPEG**.
+> Aquí se renombró a `.jpg` para que coincida con su contenido real.
+
+## Resolución real de cada archivo
+
+Los horizontales vienen grandes (`logo-CMF-color-claim.png` mide 2084×632). **Las tres variantes
+verticales, en cambio, son miniaturas de ~128×120 px**: no sirven por sobre unos 60px de alto. No
+las amplíes: usa `logo-cmf-{color,gris,blanco}-vertical.svg` o los PNG de 1200 px (ver abajo).
+
+En web, prefiere siempre los vectoriales: `logo-cmf-color-claim.svg` sobre fondo claro y
+`logo-cmf-blanco.svg` sobre fondo oscuro.
+
+## Archivos derivados (vectoriales y alta resolución)
+
+Agregados el 05/11/2026 para cubrir variantes que el kit digital solo publica en PNG pequeño o no
+publica. **No se redibujó nada**: son las mismas curvas de `logoCMF.ai.pdf` (o de
+`logo-cmf-blanco.svg`), recortadas o recoloreadas con los colores exactos medidos en los PNG
+oficiales (gris `#CCCCCC`, blanco `#FFFFFF`, morados `#5b2d83` / `#764896`, texto `#6f6f6e`).
+
+| Archivo | Variante | Cómo se obtuvo |
+|---|---|---|
+| `logo-cmf-color-horizontal.svg` | Color horizontal (sin claim) | Arte del `.ai` sin el claim |
+| `logo-cmf-gris-horizontal.svg` | Gris horizontal (sin claim) | Ídem, en `#CCCCCC` |
+| `logo-cmf-blanco-horizontal.svg` | Blanco horizontal (sin claim) | Ídem, en blanco |
+| `logo-cmf-gris-claim.svg` | Gris **con claim** | `logo-cmf-blanco.svg` en `#CCCCCC` (misma composición que `logo-CMF-gris-claim.png`) |
+| `logo-cmf-{color,gris,blanco}-vertical.svg` | Vertical | **Recompuesto** desde el `.ai`: isotipo y texto al mismo ancho, alineados a la izquierda, con línea de 1/120 del ancho entre ambos; proporciones medidas en los verticales oficiales. En color, el texto va en `#1d1d1b`, como en `logo-CMF-color-vertical.jpg` |
+| `logo-CMF-{color,gris,blanco}-vertical-1200px.png` | Vertical, PNG 1200 px de ancho | Exportado del SVG vertical |
+| `logo-cmf-{color,gris,blanco}-isotipo.svg` | Isotipo solo (la "imagen") | Arte del `.ai` sin texto, línea ni claim |
+| `favicon-cmf.svg`, `favicon-cmf-{32,180,512}.png` | Favicon (propuesta) | Isotipo color centrado en un cuadrado |
+
+> **Pendiente de visto bueno de Comunicaciones:** los verticales recompuestos, el isotipo solo y el
+> favicon no vienen tal cual en el kit digital. Hasta su aprobación, tratarlos como propuesta.
+> Si Comunicaciones entrega versiones oficiales, reemplazar estos archivos con el mismo nombre.
+
+> **Antecedente del portal (revisado el 5 de noviembre de 2026).** El favicon de www.cmfchile.cl
+> (`/favicon.ico`, 16×16 px) ya es el **isotipo "CMF" solo**, el mismo dibujo de
+> `favicon-cmf.svg`; el de este sistema solo agrega tamaños mayores (32, 180 y 512 px). El logo
+> vertical **no aparece** en el portal. Preguntas abiertas para Comunicaciones: **¿se aprueban el
+> isotipo y el favicon?**, **¿se aprueba el vertical recompuesto?** y **¿cuál es la medida
+> oficial del espacio de protección?** (ver *Espacio de protección* más abajo).
+
+## Preferir la versión con claim
+
+> "Al momento de usar el logo se debe preferir hacerlo con la incorporación del claim."
+
+**El logo con claim no tiene versión vertical.**
+
+Se puede usar **sin claim** solo cuando el claim quedaría ilegible por tamaño, o cuando la marca
+CMF aparece de forma secundaria dentro de un documento.
+
+> **Requiere aprobación.** El manual (pág. 5) es explícito: el uso sin claim va
+> "**previo visto bueno de Comunicaciones**". No es una decisión de diseño: se pide autorización a
+> `AreaComunicacionCMF@cmfchile.cl`.
+
+> **Antecedente del portal (revisado el 5 de noviembre de 2026).** www.cmfchile.cl ya usa el logo
+> horizontal **sin claim** en la cabecera y en el pie (`channels-525_logo_canal.svg` y
+> `channels-525_cmf_logo_footer.svg`). Además, ese logo del portal **no usa los colores del kit**:
+> trae morado `#6D4C95` / `#52307E` y gris `#737373`, mientras el oficial usa `#764896` / `#5B2D83`
+> y `#6F6F6E`. Preguntas abiertas para Comunicaciones: **¿se aprueba el logo sin claim para uso
+> web?** y **¿se reemplaza el logo del portal por el del kit?** (`logo-cmf-color-horizontal.svg`
+> y `logo-cmf-blanco-horizontal.svg` de esta carpeta).
+
+## Los tres casos de uso correcto
+
+| Caso | Situación | Variante |
+|---|---|---|
+| **1** | Superficie de tono claro o blanco | Color |
+| **2** | Interior de documentos, presencia secundaria de marca | Gris, "timbre de agua" — **R204 G204 B204 / `#CCCCCC`** exacto (manual pág. 5 y 6; token `--cmf-logo-timbre`) |
+| **3** | Superficie oscura, **cualquiera sea su tonalidad o color** | Blanco |
+
+### La regla que más se incumple
+
+> "Uso de logo sobre superficie oscura, cualquiera sea su tonalidad o color,
+> **NO se deben hacer variaciones del color del logo ni del claim**."
+
+Sobre fondo oscuro se usa el **archivo blanco oficial**. No se recolorea el archivo de color, ni
+con CSS (`filter`, `invert`), ni editando los rellenos del SVG, ni aplicando `currentColor`.
+Existe un archivo oficial para cada caso: usarlo.
+
+> "El logotipo sólo puede ser utilizado de las maneras descritas y se debe evitar toda situación
+> en la que se deba modificar su color o ubicación."
+
+## Redes sociales
+
+> "La referencia del sitio web y redes sociales, siempre se deben ubicar como una sola unidad visual."
+
+## De dónde salió el SVG de color
+
+`logo-cmf-color-claim.svg` se extrajo del original `logoCMF.ai` (Illustrator 30.0, 30/12/2025)
+leyendo su stream de dibujo y traduciendo los operadores de trazado a SVG: **no se redibujó ni se
+aproximó nada**, son las mismas curvas del archivo oficial. Ojo: ese `.ai` no contiene solo el
+logo — es la lámina de la página 2 del manual, con las anotaciones Pantone alrededor. El SVG
+publicado aquí es el lockup recortado; el resto de la lámina se descartó.
+
+Colores tal como vienen en el archivo: morados `#5b2d83` y `#764896`, gris del descriptor
+`#6f6f6e`, gris del claim `#4d4d4d`. Se conservan **exactos**.
+
+## Colores del logo
+
+El logo trae `#6d4c95`, `#52307e` y `#737373` según la variante. **No coinciden** con los tokens de marca de este
+sistema (`--cmf-purple-700` = `#5b2b82`, Pantone 268 C). Es esperable: los tokens vienen del manual
+de marca y el logo es un archivo cerrado. **No "corregir" los colores del logo para que calcen con
+los tokens** — eso sería una variación prohibida.
+
+## Espacio de protección
+
+El manual resumido publicado en el kit digital **no especifica una medida numérica**. El readme de
+este sistema de diseño usa la convención "≈ la altura de la F". Mientras no haya una cifra oficial,
+tratarla como una convención de este sistema, no como una regla del manual.

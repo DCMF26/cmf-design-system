@@ -1,0 +1,13 @@
+/* ============================================================
+   CMF Design System — global entry point.
+   Consumers link THIS file. Keep it to @import lines only.
+   ============================================================ */
+@import url("tokens/fonts.css");
+@import url("tokens/colors.css");
+@import url("tokens/typography.css");
+@import url("tokens/spacing.css");
+@import url("tokens/base.css");
+@import url("tokens/icons-light.css");
+@import url("tokens/icons-bold.css");
+@import url("tokens/icons-cmf.css");
+@import url("components/brand/logo.css");
